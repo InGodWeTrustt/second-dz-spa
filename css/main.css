@@ -1,0 +1,137 @@
+body {
+    margin: 0;
+    padding: 0;
+    /**
+     Первое отличие в том, что меняем шрифт
+     на другой
+    **/
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
+
+* {
+    box-sizing: border-box;
+    border: 1px solid black;
+    /* чтобы увидеть границы у блоков*/
+}
+
+.container {
+    width: 1110px;
+    margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    font-weight: 700;
+    line-height: 1.4em;
+}
+
+p {
+    margin: 0;
+    line-height: 1.37em;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+section {
+    margin-top: 120px;
+}
+
+.btn {
+    background: #FF6861;
+    border-radius: 100px;
+    color: #FFFFFF;
+    padding: 22px 70px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+    display: block;
+    width: 227px;
+    transition: all 0.5s ease-in;
+}
+
+.btn:hover {
+    background: #232323;
+}
+
+.header {
+    margin-top: 60px;
+}
+
+.introtext {
+    font-size: 18px;
+    margin: 30px 0px;
+    width: 423px;
+}
+
+.offer-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 82px;
+}
+
+.offer {
+    width: 465px;
+}
+
+.gameplay {
+    display: flex;
+    flex-direction: column;
+    gap: 41px;
+    width: 720px;
+    margin: 70px auto 0 auto;
+}
+
+.gameplay-item {
+    display: flex;
+    align-items: center;
+    gap: 34px;
+}
+
+
+.gameplay-title {
+    font-size: 30px;
+    margin-bottom: 11px;
+}
+
+
+.content-wrap {
+    display: flex;
+    align-items: center;
+    padding: 76px 125px 75px 122px;
+    gap: 101px;
+    border-radius: 60px;
+    background: linear-gradient(102deg, #FFF6DF 17.38%, #FFDFDE 81.25%);
+}
+
+.content-block {
+    width: 475px;
+}
+
+.content-title {
+    text-align: left;
+}
+
+.content-text {
+    margin: 24px 0;
+    width: 371px;
+}
+
+.footer {
+    padding: 120px 0;
+    text-align: center;
+    font-size: 15px;
+}
