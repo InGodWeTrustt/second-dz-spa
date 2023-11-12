@@ -1,3 +1,5 @@
 # second-dz-spa
+Это второе домашнее задание относится к бесплатному курсу **Веб-верстальщик: начало** и основано на верстке простого лендинга.
 
-[Ссылка на страницу проекта](https://ingodwetrustt.github.io/second-dz-spa/)
+1. [Ссылка на страницу курса](https://my.wayup.in/course/2#description)
+1. [Ссылка на страницу данного проекта](https://ingodwetrustt.github.io/second-dz-spa/)
