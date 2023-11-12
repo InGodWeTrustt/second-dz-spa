@@ -55,7 +55,6 @@ section {
     color: #FFFFFF;
     padding: 22px 70px;
     text-decoration: none;
-    font-size: 18px;
     font-weight: 700;
     display: block;
     width: 230px;
@@ -71,7 +70,6 @@ section {
 }
 
 .introtext {
-    font-size: 18px;
     margin: 30px 0px;
     width: 423px;
 }
@@ -100,7 +98,6 @@ section {
     align-items: center;
     gap: 34px;
 }
-
 
 .gameplay-title {
     font-size: 30px;
